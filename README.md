@@ -1,16 +1,23 @@
-## Hi there 👋
+<br/>
 
-<!--
-**syedwaseemjan/syedwaseemjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/syedwaseemjan">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgresql,mysql,redis,mongodb,elasticsearch,javascript,vuejs,aws,docker,kafka,rabbitmq,html,css,&theme=dark" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://github.com/syedwaseemjan">
+    <picture>
+      <source height="190em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwaseemjan&layout=compact&langs_count=6&theme=dracula">
+	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedwaseemjan&layout=compact&langs_count=6&theme=dracula"/>
+    </picture>
+  </a>
+  <a href="https://git.io/streak-stats">
+     <img src="https://github-readme-streak-stats-gray-two.vercel.app?user=syedwaseemjan&layout=compact&langs_count=6&theme=dracula" alt="Github Streak" height="190em"/>
+  </a>
+</div>
+
+<br/>
